@@ -15,5 +15,4 @@ Make sure you have these packets installed :
 Download main.py and keepassToVault.py from this repo. Ils sont très simple d'utilisation
 ## Usage
 
-
-![Capture d’écran du 2023-05-02 16-16-51](https://user-images.githubusercontent.com/100801507/235693800-35edc5cc-3604-4c28-b2a7-cf7c880f6cf5.png)
+![Capture d’écran du 2023-05-02 16-18-28](https://user-images.githubusercontent.com/100801507/235694307-f44ab1f9-74dc-40f3-8852-09f45b687907.png)
