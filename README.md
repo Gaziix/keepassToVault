@@ -15,20 +15,5 @@ Make sure you have these packets installed :
 Download main.py and keepassToVault.py from this repo. Ils sont très simple d'utilisation
 ## Usage
 
-usage: main.py [-h] [-a ADDRESS] [-t TOKEN] [-n NAMESPACE] -k KEEPASS [-i] [-r] [-c]
 
-options:
-  -h, --help            show this help message and exit
-  -a ADDRESS, --address ADDRESS
-                        Vault URL, if no one is entered, this value is put to https://127.0.0.1:8200.
-  -t TOKEN, --token TOKEN
-                        root token (it will be ask if nothing is insert here)
-  -n NAMESPACE, --namespace NAMESPACE
-                        namespace (for enterprise editions ONLY)
-  -k KEEPASS, --keepass KEEPASS
-                        keepass DB directory
-  -i, --inscription     launch the process to register members in Vault
-  -r, --insertionKV     insert Key/Values in Vault
-  -c, --check           check Vault integrity
-
-
+![Capture d’écran du 2023-05-02 16-16-51](https://user-images.githubusercontent.com/100801507/235693800-35edc5cc-3604-4c28-b2a7-cf7c880f6cf5.png)
