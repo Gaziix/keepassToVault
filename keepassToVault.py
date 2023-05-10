@@ -2,12 +2,6 @@ import re, hvac
 from pykeepass import PyKeePass
 from getpass import getpass
 
-# Prochain objectif (j'ai un prog qui passe tout vault, j'ai besoin de m'auth de maniere secure, comment faire (use HVAC)):
-# - expliquer le fait de mettre le serveur en mode dev, expliquer pourquoi des fois c'est bien, des fois pas bien au début, proposer un vault dev ou vault enterprise avec namespace
-# - FINAL OBJECTIF : mettre le projet sur Github
-# - mettre en place des update possible côté Vault OU Keepass, et màj de l'autre côté en conséquence
-# - créer une policies on choisissant direct quels users pourront l'avoir
-
 class KeepassToVault:
     """
         Class: 
